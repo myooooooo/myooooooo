@@ -34,12 +34,12 @@ Je suis actuellement en **BUT MMI 2e année (Création Numérique)**. Je fusionn
 
 ### 📊 Mes Statistiques GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=radical&count_private=true" alt="Stats de TON_PSEUDO" />
+  <img src="https://github-readme-stats.vercel.app/api?username=myooooooo&show_icons=true&theme=radical&count_private=true" alt="Stats de TON_PSEUDO" />
 </p>
 
 ### 💻 Langages les plus utilisés
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=radical" alt="Top Langs de TON_PSEUDO" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myooooooo&layout=compact&theme=radical" alt="Top Langs de TON_PSEUDO" />
 </p>
 ---
 
