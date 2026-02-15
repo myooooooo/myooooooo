@@ -1,16 +1,48 @@
-## Hi there 👋
+# 🎨 Anssafou Zineb | Creative Developer & Digital Artist
 
-<!--
-**myooooooo/myooooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Creative%20Mind&fontSize=70" width="100%" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖋️ À propos de moi
+Je suis actuellement en **BUT MMI 2e année (Création Numérique)**. Je fusionne la rigueur du développement technique avec la liberté du dessin et de l'illustration numérique.
+
+* **🎨 Passion :** Illustration, Character Design et UI/UX.
+* **🛠️ En cours :** Perfectionnement sur les frameworks JS et le Motion Design.
+* **🎯 Objectif :** Créer des expériences web immersives et visuellement impactantes.
+
+---
+
+### 🛠️ Mon Stack Technique
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
+
+---
+
+### 📊 Statistiques & Activité
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myooooooo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myooooooo&layout=compact&theme=dracula&langs_count=6" />
+</div>
+
+---
+
+### 🖼️ Galerie & Créations
+> *Ici, vous pouvez intégrer des liens vers vos projets de dessin ou votre portfolio.*
+
+- [🌐 Mon Portfolio](Lien_vers_ton_portfolio)
+- [🎨 Mon Artstation / Behance](Lien_vers_tes_dessins)
+- [✉️ Me contacter](mailto:ton_email@exemple.com)
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=myooooooo&color=blueviolet&style=flat-square&label=VISITEURS" />
+</div>
