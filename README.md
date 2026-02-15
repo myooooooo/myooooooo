@@ -23,7 +23,7 @@
 - 🌱 **Actuellement :** En 2e année de BUT MMI, je perfectionne mes techniques de dessin digital et d'intégration web.
 - 🖌️ **Univers :** Passionnée par le character design et le storytelling visuel.
 - 🎂 **Special Day :** 18 Mai.
-- 📧 **Contact :** [Ton Email ici](mailto:ton-email@exemple.com)
+- 📧 **Contact :** Mail(mailto:ton-email@exemple.com)
 
 ---
 
