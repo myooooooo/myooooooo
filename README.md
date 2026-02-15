@@ -1,55 +1,47 @@
 # 🎨 Anssafou Zineb | Creative Developer & Digital Artist
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Creative%20Mind&fontSize=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00BFFF&height=200&section=header&text=myooooooo&fontSize=70&animation=fadeIn" />
 </div>
 
 ---
 
-### 🖋️ À propos de moi
-Je suis actuellement en **BUT MMI 2e année (Création Numérique)**. Je fusionne la rigueur du développement technique avec la liberté du dessin et de l'illustration numérique.
+### 👋 À propos
+Étudiante en **BUT MMI 2e année** spécialisée en **Création Numérique**. 
+Je mélange le code et le dessin pour créer des interfaces uniques.
 
-* **🎨 Passion :** Illustration, Character Design et UI/UX.
-* **🛠️ En cours :** Perfectionnement sur les frameworks JS et le Motion Design.
-* **🎯 Objectif :** Créer des expériences web immersives et visuellement impactantes.
+* 🖌️ **Passion :** Illustration & Character Design
+* 💻 **Études :** Développement Front-end & UI/UX
+* 🎂 **Anniversaire :** 18 Mai
 
 ---
 
-### 🛠️ Mon Stack Technique
-
+### 🛠️ Mon Stack Créatif
 <div align="left">
+  <img src="https://img.shields.io/badge/Procreate-60E1E0?style=for-the-badge&logo=procreate&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
 ---
-# 🎨 Profil de Anssafou Zineb
 
+### 📊 Activité GitHub
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Creative%20MMI&fontSize=70" />
+  <img src="https://github-readme-stats.vercel.app/api?username=myooooooo&show_icons=true&theme=radical&rank_icon=github" />
 </p>
 
-### 📊 Mes Statistiques GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myooooooo&show_icons=true&theme=radical&count_private=true" alt="Stats de TON_PSEUDO" />
-</p>
-
-### 💻 Langages les plus utilisés
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myooooooo&layout=compact&theme=radical" alt="Top Langs de TON_PSEUDO" />
-</p>
 ---
 
-### 🖼️ Galerie & Créations
-> *Ici, vous pouvez intégrer des liens vers vos projets de dessin ou votre portfolio.*
+### 🎨 Ma Galerie
+> *En tant qu'artiste, ce sont tes visuels qui parlent le mieux.*
 
-- [🌐 Mon Portfolio](Lien_vers_ton_portfolio)
-- [🎨 Mon Artstation / Behance](Lien_vers_tes_dessins)
-- [✉️ Me contacter](mailto:ton_email@exemple.com)
+<div align="center">
+  <img src="https://via.placeholder.com/400x200.png?text=Bientôt+mes+dessins+ici" width="80%" />
+</div>
+
+---
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=myooooooo&color=blueviolet&style=flat-square&label=VISITEURS" />
+  <img src="https://komarev.com/ghpvc/?username=myooooooo&color=00BFFF&style=flat-square&label=VISITEURS" />
 </div>
