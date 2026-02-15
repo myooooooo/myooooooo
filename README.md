@@ -26,14 +26,21 @@ Je suis actuellement en **BUT MMI 2e année (Création Numérique)**. Je fusionn
 </div>
 
 ---
+# 🎨 Profil de Anssafou Zineb
 
-### 📊 Statistiques & Activité
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Creative%20MMI&fontSize=70" />
+</p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myooooooo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myooooooo&layout=compact&theme=dracula&langs_count=6" />
-</div>
+### 📊 Mes Statistiques GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=radical&count_private=true" alt="Stats de TON_PSEUDO" />
+</p>
 
+### 💻 Langages les plus utilisés
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=radical" alt="Top Langs de TON_PSEUDO" />
+</p>
 ---
 
 ### 🖼️ Galerie & Créations
