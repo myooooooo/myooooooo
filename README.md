@@ -1,26 +1,32 @@
 # 🎨 Anssafou Zineb | Creative Student
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00BFFF&height=150&section=header&text=myooooooo&fontSize=50" />
-</div>
-
-### 📊 Statistiques GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myooooooo&show_icons=true&theme=radical&rank_icon=github" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myooooooo&layout=compact&theme=radical" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=myooooooo&fontSize=70" />
 </div>
 
 ---
 
-### 🖌️ À propos de moi
-- **Formation :** BUT MMI 2e année (Spécialité Création Numérique)
-- **Passion :** Dessin, Illustration, UI Design
-- **Âge :** 19 ans (18 Mai)
+### 👋 À propos
+- 🎓 **BUT MMI 2e année** | Spécialité Création Numérique
+- 🖌️ Passionnée de **dessin** et d'illustration digitale
+- 🎂  (19 ans)
 
-### 🛠️ Compétences
-- **Logiciels :** Procreate, Figma, Adobe Suite
-- **Dev :** HTML, CSS, JavaScript (Vue.js)
+---
+
+### 🛠️ My Creative Stack
+<div align="left">
+  <img src="https://img.shields.io/badge/Procreate-60E1E0?style=for-the-badge&logo=procreate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+</div>
+
+---
+
+### 📈 GitHub Activity (Alternative Stable)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=myooooooo&theme=react-dark&area=true" width="100%" />
+</p>
 
 ---
 
