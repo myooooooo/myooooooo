@@ -10,24 +10,24 @@
   <br/>
   <br/>
 
-  ### 🎨 Digital Artist & Creative Developer
+  ###  Digital Artist & Creative Developer
   *Transformer des idées en expériences visuelles uniques.*
 
 </div>
 
 ---
 
-### 🖋️ Portrait
+###  Portrait
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" align="right" width="120" />
 
 - 🌱 **Actuellement :** En 2e année de BUT MMI, je perfectionne mes techniques de dessin digital et d'intégration web.
 - 🖌️ **Univers :** Passionnée par le character design et le storytelling visuel.
-- 🎂 **Special Day :** 18 Mai.
-- 📧 **Contact :** Mail(mailto:ton-email@exemple.com)
+- 🎂 **Special Day :** Mai.
+- 📧 **Contact :** 
 
 ---
 
-### 🛠️ Mon Studio Créatif
+###  Mon Studio Créatif
 <p align="center">
   <img src="https://img.shields.io/badge/Procreate-60E1E0?style=flat-square&logo=procreate&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="28" />
@@ -39,7 +39,7 @@
 
 ---
 
-### 📈 Activité & Rythme
+### Activité & Rythme
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=myooooooo&theme=react-dark&area=true&color=00BFFF" width="100%" />
 </p>
@@ -50,7 +50,7 @@
 
 ---
 
-### 🖼️ Galerie éphémère
+###  Galerie éphémère
 <div align="center">
   <table border="0">
     <tr>
